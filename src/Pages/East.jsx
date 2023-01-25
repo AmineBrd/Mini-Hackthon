@@ -8,6 +8,7 @@ function East() {
   return (
     <div>
         <Nav />
+        <Road title="east" />
         <Feedback />
         <Footer />
     </div>
